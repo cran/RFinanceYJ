@@ -1,0 +1,11 @@
+101725b5a09490de1cbbafc8a538c053 *DESCRIPTION
+85c8a8ef76b76ca648534c64cb192f9b *NAMESPACE
+205c2c346b2e2115147cbed2060ca547 *R/quoteStockTsData.R
+05765a3281d5ebea90fd914cd1ce68f7 *R/quoteStockXtsData.R
+fa967244b96e08753ec22d049fd6ef76 *R/toXts.R
+c986f20c9181edb64187301839e84119 *man/RFinanceYJ-package.Rd
+93def3861257df2d7e72d331caf670e5 *man/quoteFXTsData.Rd
+5d28ca61c1dd430a514dffb2bfd87e7c *man/quoteFundTsData.Rd
+4e4a74d65da4fe59b85cad9cd57199b1 *man/quoteStockTsData.Rd
+76ba550facc53922d129dd1ab56e0be2 *man/quoteStockXtsData.Rd
+d4812ad858cbf8a2fde7b8890e8297fa *man/toXts.Rd
